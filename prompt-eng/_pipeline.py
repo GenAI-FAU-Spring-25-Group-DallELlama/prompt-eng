@@ -173,3 +173,5 @@ if __name__ == "__main__":
     time, response = model_req(payload=payload)
     print(response)
     if time: print(f'Time taken: {time}s')
+
+    
