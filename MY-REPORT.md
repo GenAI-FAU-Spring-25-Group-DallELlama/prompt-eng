@@ -8,7 +8,7 @@
 This is a response to the Assignment part of the COURSE.
 -->
 
-* Authors: [NAME1](http://www.YOURPAGE.xxx), [NAME_n](http://www.YOURPAGE.xxx)
+* Authors: [Ethan Curtis](https://github.com/basilicon), [NAME_n](http://www.YOURPAGE.xxx)
 * Academic Supervisor: [Dr. Fernando Koch](http://www.fernandokoch.me)
 
   
