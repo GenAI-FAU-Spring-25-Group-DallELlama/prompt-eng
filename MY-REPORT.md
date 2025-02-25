@@ -4,17 +4,12 @@
 
 This is an experiment with prompt engineering for the Dallellama Transcription Project.
 
-<!-- WHEN APPLICABLE, REMOVE THE COMMENT MARK AND COMPLETE
-This is a response to the Assignment part of the COURSE.
--->
-
 * Authors: [Ethan Curtis](https://github.com/basilicon), [Theodor Owchariw](https://github.com/TheodorOwchariw), [Jordan Perrone](https://github.com/jperrone27)
 * Academic Supervisor: [Dr. Fernando Koch](http://www.fernandokoch.me)
-
   
 # Research Question 
 
-1-liner description of your request (or exploration).. Make it enthusiastically!
+How can we use Prompt Engineering to help with Discord bot commands?
 
 ## Arguments
 
